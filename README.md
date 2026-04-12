@@ -1,45 +1,77 @@
-# Wᴇʟᴄᴏᴍᴇ ᴛᴏ ALBIN's GɪᴛHᴜʙ Pʀᴏғɪʟᴇ 👋
-<pre align="left">
-<img align="left" width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px">
+<div align="center">
 
-</pre>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albinjosephroy&label=Profile%20views&color=129e00&style=plastic" alt="albin" /> </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Albin%20Joseph%20Roy&fontSize=42&fontColor=e2d9f3&fontAlignY=38&desc=AI%20·%20Computer%20Vision%20·%20Open%20Web&descAlignY=58&descSize=16&descColor=AFA9EC)
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
-<b>• 👨‍💻 Lᴀɴɢᴜᴀɢᴇs: Pʏᴛʜᴏɴ
-<br>• 📚 Sᴛᴜᴅᴇɴᴛ ᴀɴᴅ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ.</b>
+![visitors](https://komarev.com/ghpvc/?username=AlbinJosephroy&label=visitors&color=7F77DD&style=flat)
 
-## Buy Me A Coffee ☕
+**CS student** building intelligent systems from the ground up —
+training models, writing code that actually work.
 
-***If you are willing to support us, Just buy me a coffee ☕***
+🟢 &nbsp;**Actively seeking internships** &nbsp;·&nbsp; open to DMs
 
-<a href="https://www.buymeacoffee.com/albinjosephroy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
-
-## 🌐 Sᴏᴄɪᴀʟs:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joelkurian.biju.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-kurian-biju-8b068124b) 
-
-# 💻 Tᴇᴄʜ Sᴛᴀᴄᴋ:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GɪᴛHᴜʙ Sᴛᴀᴛs:
-![](https://github-readme-stats.vercel.app/api?username=albinjosephroy&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?useralbinjosephroy&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=albinjosephroy&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GɪᴛHᴜʙ Tʀᴏᴘʜɪᴇs
-![](https://github-profile-trophy.vercel.app/?username=albinjosephroy&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Rᴀɴᴅᴏᴍ Dᴇᴠ Qᴜᴏᴛᴇ
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-# ☎️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ
+### ◈ &nbsp;Languages
+
+![Python](https://img.shields.io/badge/Python-0b0515?style=for-the-badge&logo=python&logoColor=3572A5)
+![C++](https://img.shields.io/badge/C++-0b0515?style=for-the-badge&logo=c%2B%2B&logoColor=f34b7d)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0515?style=for-the-badge&logo=javascript&logoColor=f1e05a)
+![Java](https://img.shields.io/badge/Java-0b0515?style=for-the-badge&logo=openjdk&logoColor=b07219)
+
+---
+
+### ◈ &nbsp;Interests
+
+| | |
+|---|---|
+| **AI / Machine Learning** | TensorFlow · Keras · PyTorch · scikit-learn · transfer learning · CUDA |
+| **Computer Vision** | OpenCV · EfficientNet · image processing · thermal imaging |
+| **Web Development** | Flask · Django · Node.js · HTML · CSS · JavaScript |
+| **Open Source / Tools** | Git · GitHub · MongoDB · MySQL · Arduino · IoT |
+
+---
+
+### ◈ &nbsp;Toolkit
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0b0515?style=flat&logo=tensorflow&logoColor=AFA9EC)
+![Keras](https://img.shields.io/badge/Keras-0b0515?style=flat&logo=keras&logoColor=AFA9EC)
+![PyTorch](https://img.shields.io/badge/PyTorch-0b0515?style=flat&logo=pytorch&logoColor=ED93B1)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0515?style=flat&logo=scikit-learn&logoColor=ED93B1)
+![OpenCV](https://img.shields.io/badge/OpenCV-0b0515?style=flat&logo=opencv&logoColor=5DCAA5)
+![Flask](https://img.shields.io/badge/Flask-0b0515?style=flat&logo=flask&logoColor=EF9F27)
+![Django](https://img.shields.io/badge/Django-0b0515?style=flat&logo=django&logoColor=EF9F27)
+![Node.js](https://img.shields.io/badge/Node.js-0b0515?style=flat&logo=node.js&logoColor=EF9F27)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b0515?style=flat&logo=mongodb&logoColor=85B7EB)
+![Git](https://img.shields.io/badge/Git-0b0515?style=flat&logo=git&logoColor=85B7EB)
+![Arduino](https://img.shields.io/badge/Arduino-0b0515?style=flat&logo=arduino&logoColor=85B7EB)
+
+---
+
+### ◈ &nbsp;GitHub stats
+
 <p align="left">
-<a href="https://telegram.me/creatorbeatz"><img alt="Telegram" src="https://img.shields.io/badge/Joelkb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://telegram.me/free_movies_all_languages">
-    &nbsp;<img src="https://img.shields.io/badge/Free Movies-Group-blue?style=for-the-badge&logo=telegram" width="200" height="28">&nbsp;
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbinJosephroy&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinJosephroy&theme=synthwave&hide_border=true&layout=compact" height="160"/>
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbinJosephroy&theme=synthwave&hide_border=true" />
+
+---
+
+### ◈ &nbsp;Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0515?style=for-the-badge&logo=linkedin&logoColor=85B7EB)](https://www.linkedin.com/in/albin-joseph-roy-782a16323)
+[![Telegram](https://img.shields.io/badge/Telegram-0b0515?style=for-the-badge&logo=telegram&logoColor=5DCAA5)](https://t.me/au_0828)
+[![Instagram](https://img.shields.io/badge/Instagram-0b0515?style=for-the-badge&logo=instagram&logoColor=ED93B1)](https://www.instagram.com/___4l.6in__)
+
+---
+
+<div align="center">
+
+*"Build first. Learn along the way. Ship it anyway."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer)
+
 </div>
